@@ -1,0 +1,17 @@
+{
+  "name": "ipgeo",
+  "version": "1.0.0",
+  "description": "ip geolocation poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ipgeo"
+  ],
+  "author": "David Martins",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
